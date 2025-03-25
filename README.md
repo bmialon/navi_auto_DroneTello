@@ -6,8 +6,11 @@ Ce projet regroupe plusieurs scripts Python permettant de contrôler un ou plusi
 
 
 detectionmediapipe.py -> Le drone détecte et suit un visage en temps réel avec MediaPipe.
+
 trajectory.py -> Interface graphique pour dessiner une trajectoire et faire suivre un drone.
+
 essaim_sync.py -> Tous les drones suivent le même chemin de manière synchronisée.
+
 essaim_unsync.py -> Chaque drone suit sa propre trajectoire, de façon indépendante.
 
 installer.bat -> Contient toutes les bibliothèques à installer.
